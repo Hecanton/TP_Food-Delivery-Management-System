@@ -1,0 +1,3 @@
+ Order id=2
+ Client Name=Calin
+ Price=0
